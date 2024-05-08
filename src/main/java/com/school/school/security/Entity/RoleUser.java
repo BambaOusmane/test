@@ -1,10 +1,7 @@
 package com.school.school.security.Entity;
-
-import com.school.school.security.Entity.Enum.TypeDeRole;
 import jakarta.persistence.*;
 import lombok.*;
 
-import static com.school.school.security.Entity.Enum.TypeDeRole.ETUDIANT;
 
 @Entity
 @Setter
